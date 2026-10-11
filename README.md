@@ -9,13 +9,10 @@
 | Windows x64 | [下载安装程序](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.5.0/PaperEnjoyer-0.5.0-Setup.exe) |
 | macOS Apple Silicon | [下载 DMG](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.5.0/PaperEnjoyer-0.5.0-macOS-arm64.dmg) |
 | Ubuntu 22.04 / 24.04 / 26.04 LTS x64 | [下载 DEB](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.5.0/PaperEnjoyer-0.5.0-Linux-amd64.deb) |
-| Android 10+ | [下载 APK](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.5.0/PaperEnjoyer-0.5.0-Android.apk) |
 
 [最新发行版](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/latest) · [全部版本](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases)
 
 Windows 支持后台下载更新，点击“重启并安装”后升级。macOS 下载后退出应用，将新版拖入“应用程序”并替换。Ubuntu 下载后退出应用，在下载目录运行 `sudo apt install ./PaperEnjoyer-0.5.0-Linux-amd64.deb` 安装或升级；应用菜单中打开 PaperEnjoyer，使用 `sudo apt remove paper-enjoyer` 卸载。已有资料库和设置会保留。
-
-Android 安装 APK；后续使用相同发行签名覆盖升级，保留文库。
 
 桌面安装包暂未使用商业代码签名证书。请按操作系统提示确认发行来源；macOS 首次打开可能需要在“系统设置 → 隐私与安全性”中允许。
 
