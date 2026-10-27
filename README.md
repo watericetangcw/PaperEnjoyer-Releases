@@ -2,12 +2,12 @@
 
 本地优先的论文阅读与 AI 精读应用。此仓库提供官方安装包与更新文件。
 
-当前版本：**0.6.1（Windows / macOS）**；Linux 保持 **0.6.0**。
+当前版本：**0.6.2（Windows / macOS）**；Linux 保持 **0.6.0**。
 
 | 平台 | 下载 |
 | --- | --- |
-| Windows x64 | [下载安装程序](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.6.1/PaperEnjoyer-0.6.1-Setup.exe) |
-| macOS Apple Silicon | [下载 DMG](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.6.1/PaperEnjoyer-0.6.1-macOS-arm64.dmg) |
+| Windows x64 | [下载安装程序](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.6.2/PaperEnjoyer-0.6.2-Setup.exe) |
+| macOS Apple Silicon | [下载 DMG](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.6.2/PaperEnjoyer-0.6.2-macOS-arm64.dmg) |
 | Ubuntu 22.04 / 24.04 / 26.04 LTS x64 | [下载 DEB](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/download/v0.6.0/PaperEnjoyer-0.6.0-Linux-amd64.deb) |
 
 [最新发行版](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases/latest) · [全部版本](https://github.com/watericetangcw/PaperEnjoyer-Releases/releases)
